@@ -334,7 +334,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #a31c39;
 	}
 
 	blockquote {
@@ -4379,7 +4379,7 @@ input, select, textarea {
 		}
 
 	.banner .image {
-		background-color: rgba(0, 0, 0, 0.125);
+		background-color: #29282f;
 	}
 
 	.banner.invert .image {
