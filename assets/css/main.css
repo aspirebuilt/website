@@ -157,7 +157,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: loretta, serif;;
 		font-size: 1rem;
 		font-weight: 300;
 		line-height: 1.65;
@@ -192,7 +192,9 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-weight: 300;
+		font-family: span, serif;
+		font-style: normal;
+		font-weight: 200;
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
